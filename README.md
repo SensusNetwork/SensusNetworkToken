@@ -1,0 +1,1 @@
+SensusNetwork ERC20 Token: SENX
