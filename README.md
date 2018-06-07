@@ -41,23 +41,4 @@ In the event that a few associations want a more vertical hierarchy of leadershi
 
 Community governance is a model of governance where a community of users is governance according to the constitution created by the community itself . 
 
-# For Example:
-Community X = Community of Users 
-Governance = Community X Governance Mechanism 
-Governance Mechanism = Constitution Protocol Deployed by Users 
-Stakeholders = Users X
 
-Governance = Constitution X + Users X 
-Decision + Consensus = Action 
-Consensus > 51% Vote 
-Void < 51% Vote 
-Majority = Consensus 
-
-
-Sensus Governance Protocol is a governance mechanism which is deployed by a community for community governance via cryptographic blockchain built upon Ethereum network. Sensus Governance Protocol is the constitution created by the community which can be amended by a community consensus. The governance protocol is created by the deployment of Sensus Network Code which creates Community Constitution which governs the functioning of the community. 
-
-Sensus Protocol = Community X + Constitution X + Amendment Protocol + Budgetary Protocol 
-Amendment Protocol = Proposal + Consensus = Change in Constitution X
-Voting = Binary Option + Checkbox Option
-Binary Option = Yes or No
-Checkbox Option = Input Value 
